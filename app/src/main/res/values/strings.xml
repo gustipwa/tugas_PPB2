@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AplikasiBiodata</string>
+    <string name="a11_2017_10233">A11.2017.10815</string>
+    <string name="maulana_bagus_saputra">Cahyo Bintarum</string>
+    <string name="hello_my_name_is_maulana_bagus_saputra_i_m_an_computer_science_student_who_interested_in_high_performance_computing_and_artificial_intelligence">Hello my name is Cahyo Bintarum I\'m an Computer Science Student who interested in High Performance Computing and Artificial Intelligence.</string>
+    <string name="deskripsi">Deskripsi :</string>
+    <string name="hobby">Hobby :</string>
+    <string name="alamat">Alamat :</string>
+    <string name="ngoprek_ngegame_belanja">Ngedesain, Ngegame, Ngeband</string>
+    <string name="doscom_gedung_d_lantai_1_universitas_dian_nuswantoro_jalan_nakula_i_no_1_15_semarang_jawa_tengah_indonesia_50131">Jl penaton no19, Barusari, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah, Indonesia. 50131</string>
+    <string name="telepon">Telepon :</string>
+    <string name="_6289631504751">+6289564293014</string>
+    <string name="email">Email :</string>
+    <string name="catzy_rais_gmail_com">Cahyobintarum@gmail.com</string>
+    <string name="todo">TODO</string>
+</resources>
